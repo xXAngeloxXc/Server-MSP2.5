@@ -9,28 +9,28 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "number-barcelona.gl.joinmc.link",
-          "assigned_srv": "number-barcelona.gl.joinmc.link",
+          "assigned_domain": "zip-clara.gl.joinmc.link",
+          "assigned_srv": "zip-clara.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "d5ede093-54ec-4be1-b636-71f4ad360df9",
+          "id": "841fddfd-7138-4ccf-b434-63d14bcbec82",
           "ip_hostname": "20.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 30365,
-          "port_start": 30364,
+          "port_end": 32547,
+          "port_start": 32546,
           "region": "global",
           "static_ip4": "147.185.221.20",
           "tunnel_ip": "2602:fbaf:0:1::14"
         },
         "status": "allocated"
       },
-      "created_at": "2024-06-19T05:50:18.237004Z",
+      "created_at": "2024-06-20T02:15:18.293743Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "918b66c0-21f7-4421-8197-b9920bed8891",
+      "id": "d98b028c-587f-424b-9839-065d67605eff",
       "name": "Minecraft Java",
       "origin": {
         "data": {
